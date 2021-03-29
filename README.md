@@ -18,9 +18,9 @@ I am currently managing and improving open source software for personal and prof
 In my working life, I have migrated the monitoring system from Nagios to Icinga2. I also use this software for my private systems.
 I am currently writing a small icinga2-formula for Salt.
 
-### Salt
+### SaltStack
 
-Salt of SaltStack plays a big role in my job. In the past, I established Salt in my current department.
+SaltStack plays a big role in my job. In the past, I established Salt in my current department.
 I also manage my private systems with salt.
 
 ### MRBS
