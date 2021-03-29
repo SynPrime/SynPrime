@@ -3,6 +3,14 @@ Hi, I am Gino.
 I am a systems engineer for Linux-based systems since 2017.
 I am currently managing and improving open source software for personal and professional use.
 
+## Programming- and script languages
+
+* Perl
+* PHP
+* Python
+* Bash
+* JavaScript (basics)
+
 ## Interactions with open source software
 
 ### Icinga 2
