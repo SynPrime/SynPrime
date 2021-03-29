@@ -1,6 +1,6 @@
 Hi, I am Gino.
 
-I have been a systems engineer for Linux-based systems since 2017.
+I am a systems engineer for Linux-based systems since 2017.
 I am currently managing and improving open source software for personal and professional use.
 
 ## Icinga 2
@@ -21,3 +21,9 @@ The software has some limitations. I've spent much time to improve the software,
 ## OpenHab
 
 I am using OpenHab for my home automation. I love to write usefull automation scripts.
+
+## OTRS
+
+My department uses the ticketing and process management software "OTRS".
+I manage the software and wrote some internal packages.
+We use a complex process for creating a new employee. I recreated the process from scratch.
